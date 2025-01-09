@@ -1,4 +1,4 @@
-## Hi there! I'm [Gabrielle] 👋
+## Hi there! I'm Gabrielle 👋
 🚀 **Data Engineer | Cloud Enthusiast | Automation Fanatic**
 
 🔧 I specialize in **ETL pipelines, big data workflows, and cloud automation**.
