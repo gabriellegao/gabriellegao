@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! I'm [Gabrielle] 👋
+🚀 **Data Engineer | Cloud Enthusiast | Automation Fanatic**
 
-<!--
-**gabriellegao/gabriellegao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I specialize in **ETL pipelines, big data workflows, and cloud automation**.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**:
+- **Cloud:** Azure | GCP
+- **Tools:** Databricks | Terraform | Kafka | Airflow
+- **Languages:** Python | SQL | Shell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Recent Projects**:
+- 🏗️ **[Data Engineering Zoomcamp](https://github.com/gabriellegao/data-engineering-zoomcamp)**: Built an end-to-end data pipeline with GCP, Terraform, PySpark, and Kafka.
+- 🔍 **[Machine Learning ZoomCamp](https://github.com/gabriellegao/machine-learning-zoomcamp)**: Extracted, cleaned, and analyzed Twitter data using NLP techniques.
+
+📬 **Find me on**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/[yourprofile](https://www.linkedin.com/in/gabriellegao/)) 
+
+⚡ **Fun Fact:** I once optimized a query that reduced processing time by **90%**, and my colleagues thought it was magic! 🎩✨
